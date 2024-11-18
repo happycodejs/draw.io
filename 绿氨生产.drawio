@@ -117,9 +117,6 @@
             <mxPoint x="1071" y="358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U9eTumjgss6MhKt13I3X-28" value="合成氨产品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1081" y="344" width="83" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="U9eTumjgss6MhKt13I3X-29" value="风光发电模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="167" y="68" width="174" height="30" as="geometry" />
         </mxCell>
@@ -140,6 +137,9 @@
         </mxCell>
         <mxCell id="U9eTumjgss6MhKt13I3X-34" value="C模块-合成氨装置模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="767" y="542" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-36" value="合成氨产品" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="342.5" width="115" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
