@@ -129,7 +129,7 @@
         <mxCell id="U9eTumjgss6MhKt13I3X-31" value="绿电供给合成氨装置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="393" y="245" width="183" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U9eTumjgss6MhKt13I3X-32" value="A模块-电解槽制氢" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="U9eTumjgss6MhKt13I3X-32" value="A模块-电解槽制氢" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="26.25" y="343" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U9eTumjgss6MhKt13I3X-33" value="B模块-氢气储存装置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
@@ -140,6 +140,131 @@
         </mxCell>
         <mxCell id="U9eTumjgss6MhKt13I3X-36" value="合成氨产品" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1081" y="342.5" width="115" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="700" y="925" width="357" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1067" width="266" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="204" y="777" width="169" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" source="U9eTumjgss6MhKt13I3X-42" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="288.5" y="994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-42" value="风光发电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="245.5" y="809" width="86" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=5.33;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="809" as="sourcePoint" />
+            <mxPoint x="203" y="809" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-44" value="风" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="121" y="774" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=5.33;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="131" y="852" as="sourcePoint" />
+            <mxPoint x="204" y="852" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-46" value="光" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="124" y="866" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-47" value="电解制氢" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="232.25" y="998" width="112.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1017" as="sourcePoint" />
+            <mxPoint x="692" y="1017" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-49" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426" y="1025" as="sourcePoint" />
+            <mxPoint x="426" y="1088" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-50" value="氢气压缩" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="393" y="1099" width="70" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-51" value="储氢装置" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="531" y="1099" width="70" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="471" y="1114" as="sourcePoint" />
+            <mxPoint x="523" y="1114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="566" y="1089" as="sourcePoint" />
+            <mxPoint x="565.5" y="1026" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-54" value="供给氢气 H2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="466" y="973" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-55" value="氢气储罐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="367" y="1137" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-56" value="合成气压缩" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1001.5" width="82" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-57" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="793" y="1016.5" as="sourcePoint" />
+            <mxPoint x="841" y="1017" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-58" value="合成氨装置" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="862" y="1001.5" width="115" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-59" value="空分" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="862" y="1133" width="70" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=5.33;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1025" y="1148" as="sourcePoint" />
+            <mxPoint x="952" y="1148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-61" value="空气" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="973" y="1115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-62" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="849" y="1148" as="sourcePoint" />
+            <mxPoint x="744" y="1044" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-63" value="分离氮气 N2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="756" y="1115" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-64" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="997" y="1017" as="sourcePoint" />
+            <mxPoint x="1103" y="1017" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-65" value="风光发电模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="199" y="727" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-68" value="B模块-氢气储存装置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="411" y="1174" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-69" value="C模块-合成氨装置模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="796" y="880" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9eTumjgss6MhKt13I3X-70" value="合成氨产品" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1113" y="1001.5" width="115" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
