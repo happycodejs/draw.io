@@ -141,10 +141,10 @@
         <mxCell id="U9eTumjgss6MhKt13I3X-36" value="合成氨产品" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1081" y="342.5" width="115" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="U9eTumjgss6MhKt13I3X-42" value="风光发电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="U9eTumjgss6MhKt13I3X-42" value="风光发电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="245.5" y="809" width="86" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="U9eTumjgss6MhKt13I3X-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=5.33;fontSize=14;" edge="1" parent="1">
+        <mxCell id="U9eTumjgss6MhKt13I3X-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=5.33;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="144" y="830" as="sourcePoint" />
             <mxPoint x="217" y="830" as="targetPoint" />
@@ -156,7 +156,7 @@
         <mxCell id="U9eTumjgss6MhKt13I3X-46" value="光" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="140.25" y="838" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U9eTumjgss6MhKt13I3X-47" value="电解制氢" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="U9eTumjgss6MhKt13I3X-47" value="电解制氢" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="423" y="809" width="112.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="U9eTumjgss6MhKt13I3X-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
@@ -177,13 +177,13 @@
         <mxCell id="U9eTumjgss6MhKt13I3X-54" value="H2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="544" y="785" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U9eTumjgss6MhKt13I3X-58" value="合成氨装置" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="U9eTumjgss6MhKt13I3X-58" value="合成氨装置" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="711.5" y="809" width="115" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="U9eTumjgss6MhKt13I3X-59" value="空分" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="U9eTumjgss6MhKt13I3X-59" value="空分" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="874" y="716" width="70" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="U9eTumjgss6MhKt13I3X-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=5.33;fontSize=14;" edge="1" parent="1">
+        <mxCell id="U9eTumjgss6MhKt13I3X-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=5.33;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1044" y="734" as="sourcePoint" />
             <mxPoint x="971" y="734" as="targetPoint" />
@@ -198,7 +198,7 @@
             <mxPoint x="916.5" y="824.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U9eTumjgss6MhKt13I3X-70" value="合成氨产品" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="U9eTumjgss6MhKt13I3X-70" value="合成氨产品" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="933.5" y="809" width="100" height="31" as="geometry" />
         </mxCell>
         <mxCell id="U9eTumjgss6MhKt13I3X-72" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
