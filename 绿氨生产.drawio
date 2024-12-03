@@ -349,7 +349,10 @@
           <mxGeometry x="84" y="618" width="126" height="92" as="geometry" />
         </mxCell>
         <mxCell id="DSlkG7H821yX9vVmTWFP-5" value="&lt;font&gt;&lt;font&gt;问题：&lt;/font&gt;&lt;span style=&quot;font-family: 宋体; text-align: start; background-color: initial;&quot;&gt;某化工企业绿氨生产最优负荷调度策略研究&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="286" y="152" width="575" height="33" as="geometry" />
+          <mxGeometry x="286" y="152" width="575" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="286" y="193" width="575" height="101" as="geometry" />
         </mxCell>
         <mxCell id="DSlkG7H821yX9vVmTWFP-6" value="研究的背景和意义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="331" y="200" width="204" height="33" as="geometry" />
@@ -358,13 +361,13 @@
           <mxGeometry x="579" y="200" width="204" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DSlkG7H821yX9vVmTWFP-8" value="文献整理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="284" y="249" width="121" height="33" as="geometry" />
+          <mxGeometry x="300" y="249" width="121" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DSlkG7H821yX9vVmTWFP-9" value="模型设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="493" y="249" width="121" height="33" as="geometry" />
+          <mxGeometry x="503" y="249" width="121" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DSlkG7H821yX9vVmTWFP-10" value="绿氨影响因素" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="738" y="249" width="121" height="33" as="geometry" />
+          <mxGeometry x="723" y="249" width="121" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DSlkG7H821yX9vVmTWFP-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="284" y="327" width="575" height="84" as="geometry" />
