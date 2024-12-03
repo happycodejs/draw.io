@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="2">
   <diagram name="第 1 页" id="4ehV55ny_UHVLfQ4jq1b">
     <mxGraphModel dx="1434" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -321,6 +321,119 @@
         </mxCell>
         <mxCell id="U9eTumjgss6MhKt13I3X-123" value="影响因素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="823.5" y="926" width="83" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xRj2jmk1qxW8SIagM4jF" name="第 2 页">
+    <mxGraphModel dx="1434" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DSlkG7H821yX9vVmTWFP-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="123" width="623" height="604" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="934" y="123" width="177" height="604" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-1" value="研究思路" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="86" y="59" width="129" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-2" value="提出问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="86" y="155" width="126" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-3" value="研究问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="86" y="327" width="126" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-4" value="实践应用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="84" y="618" width="126" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-5" value="&lt;font&gt;&lt;font&gt;问题：&lt;/font&gt;&lt;span style=&quot;font-family: 宋体; text-align: start; background-color: initial;&quot;&gt;某化工企业绿氨生产最优负荷调度策略研究&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="286" y="152" width="575" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-6" value="研究的背景和意义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="331" y="200" width="204" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-7" value="国内外研究现状" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="579" y="200" width="204" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-8" value="文献整理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="284" y="249" width="121" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-9" value="模型设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="493" y="249" width="121" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-10" value="绿氨影响因素" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="738" y="249" width="121" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="284" y="327" width="575" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;绿氨生产流程分析以及模型设计&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="417" y="331" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-13" value="影响因素分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="335" y="364" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-14" value="离网型模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="512" y="362" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-15" value="并网型模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="693" y="361" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="284" y="433" width="575" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;模型构建以及求解&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="417" y="437" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-18" value="参数说明" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="335" y="470" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-19" value="目标函数构建" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="512" y="468" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-20" value="模型约束条件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="693" y="467" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-21" value="求解方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="417" y="516" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-22" value="算例分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="612" y="516" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="281" y="618" width="575" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;模型应用&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="622" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-26" value="新建任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="332" y="655" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-27" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="509" y="653" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-28" value="运行结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="652" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-31" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="514" y="59" width="129" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-32" value="研究方法 / 工具" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="964" y="59" width="129" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-33" value="文献分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="971.5" y="152" width="114" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-34" value="数据分析&lt;div&gt;动态规划&lt;/div&gt;&lt;div&gt;多目标问题求解&lt;/div&gt;&lt;div&gt;启发式算法&lt;/div&gt;&lt;div&gt;参数处理&lt;/div&gt;&lt;div&gt;实验法&lt;/div&gt;&lt;div&gt;数量研究法&lt;/div&gt;&lt;div&gt;图表可视化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="971.5" y="327" width="117.5" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-35" value="归纳总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="971.5" y="615" width="120.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlkG7H821yX9vVmTWFP-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="123" width="177" height="604" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
