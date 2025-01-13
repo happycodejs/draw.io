@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="KP05JGIZeI-Rx7A__Jd2">
-    <mxGraphModel dx="1423" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2846" dy="1392" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             <mxPoint x="1125" y="1969" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="htVB81nQMtp_a2EU_Ox7-16" value="后端接口返回值(后端调用接口需要&lt;font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;cropId&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, SCHeiti, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255); color: rgb(120, 120, 120);&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Secret&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="htVB81nQMtp_a2EU_Ox7-16" value="后端接口返回值(后端调用接口需要&lt;font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;cropId&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, SCHeiti, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255); color: rgb(120, 120, 120);&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;Secret&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1147" y="1955" width="246" height="30" as="geometry" />
         </mxCell>
         <mxCell id="htVB81nQMtp_a2EU_Ox7-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
