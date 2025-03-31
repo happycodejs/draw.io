@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.5" pages="2">
   <diagram name="第 1 页" id="mHySup3EarohyQKNCJPl">
     <mxGraphModel dx="1440" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -228,6 +228,56 @@
         </mxCell>
         <mxCell id="nOr95FBL49ugDWGUfuBr-44" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;fontSize=14;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="749" y="508" width="699" height="249" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QVQ1KAOKPPgnM9zRPG-G" name="第 2 页">
+    <mxGraphModel dx="1912" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-2" value="团队协作" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="115" y="320.5" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-3" value="主动发现问题，推动项目进展" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="377" y="131" width="217" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="299" y="167" width="20" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="155" as="sourcePoint" />
+            <mxPoint x="854" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-36" value="B2C项目中，主动推动企微代开发模式，积极和后端进行沟通实现" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="906.5" y="65" width="499.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-37" value="企微侧边栏开发中，在联调中，主动推动后端新增接口，覆盖多个方面" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="906.5" y="138" width="499.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-38" value="数据面板中，积极考虑大数据问题，并给出前端交互方案" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="906.5" y="216" width="499.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-39" value="积极跟进bug" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="373" y="507" width="217" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="657" y="525" as="sourcePoint" />
+            <mxPoint x="847" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-41" value="项目测试中，基本保证当天bug，当天解决完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="895" y="494" width="499.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-42" value="针对严重和阻塞性bug,积极主动及时解决，保证测试的测试流程顺畅" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="895" y="567" width="499.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj3Pb5yySrU0MdXKHqJB-43" value="联调中，保证基本case覆盖，提测之后保证提测质量" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="895" y="411" width="499.5" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
